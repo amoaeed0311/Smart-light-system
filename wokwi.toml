@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Debug/smart_home_firmware.elf'
+elf = 'build/Debug/smart_home_firmware.elf'
